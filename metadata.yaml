@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Henry_James
 description: The wife of a successful author fears the influence her husband's writing
   will have on their son.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21770#The-Author-Of-Beltraffio
 gutenberg_issued: '2007-06-08'
 gutenberg_type: Text
 identifiers:
